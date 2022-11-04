@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\bin\Debug\net6.0\TestMTC.exe
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\bin\Debug\net6.0\TestMTC.deps.json
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\bin\Debug\net6.0\TestMTC.runtimeconfig.json
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\bin\Debug\net6.0\TestMTC.dll
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\bin\Debug\net6.0\TestMTC.pdb
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.dll
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\refint\TestMTC.dll
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.pdb
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\TestMTC.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\TestMTC\TestMTC\obj\Debug\net6.0\ref\TestMTC.dll
